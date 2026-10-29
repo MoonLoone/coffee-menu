@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Кофейня</string>
+    <string name="only_described">С описанием</string>
+    <string name="show_all">Показать всё</string>
+    <string name="checkout">Оформить</string>
+    <string name="drop_plain">Убрать без описания</string>
+    <string name="remove_last">Убрать последнюю</string>
+    <string name="brew_ready">Brew's ready</string>
+    <string name="apply_discount">Скидка</string>
+    <string name="refresh_menu">Обновить меню</string>
+    <string name="log_menu">Лог меню</string>
+    <string name="priciest">Самая дорогая</string>
+    <string name="clear_cheap">Очистить дешёвые</string>
+    <string name="receipt">Чек</string>
+    <string name="sort_menu">Сортировать</string>
+</resources>
